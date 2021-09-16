@@ -5,10 +5,10 @@
 
 ## Here are some ideas to get you started:
 
-###I live in:brazil:
-###I'm currently working on Support 🔭
-###I’m currently learning NodeJs 🌱
-###How to reach me: michellec_rodrigues@hotmail.com 📫 
+* I live in:brazil:
+* I'm currently working on Support 🔭
+* I'm currently learning NodeJs 🌱
+* How to reach me: michellec_rodrigues@hotmail.com 📫 
 
 ##Connect with me:
 
