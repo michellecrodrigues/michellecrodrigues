@@ -8,19 +8,19 @@
 <br>
 <br>
 <table align = "center">
+<td>
+   <img title="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</td>
+ <td>
+    <img title="NodeJS" width="40" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png">
+ </td>
+ <td>
+    <img title="C#" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+ </td>
   <td>
-    <img title="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+     <img title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   </td>
-   <td>
-     <img title="NodeJS" width="40" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png">
-   </td>
-   <td>
-      <img title="C#" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-   </td>
-    <td>
-       <img title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    </td>
- </table>
+</table>
  
 <br>
 
@@ -31,6 +31,7 @@
 	
 <br>
 <br>
+	
 <table align="center">
 <td>
   <a href="https://instagram.com/michellec_rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
