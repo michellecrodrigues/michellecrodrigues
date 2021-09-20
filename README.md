@@ -31,11 +31,23 @@
 	
 <br>
 <br>
-
+<table align="center">
+<td>
   <a href="https://instagram.com/michellec_rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://discord.gg/mi_passos#0723" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</td>
+<td>
+ <a href="https://discord.gg/mi_passos#0723" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</td>
+<td>
   <a href = "mailto:michellechavesrodrigues1986@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</td>
+<td>
   <a href="https://www.linkedin.com/in/michelle-rodrigues-passos-17070131" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</td>
+</table>	
+	
+	
+	
 
  ![Snake animation](https://github.com/michellecrodrigues/michellecrodrigues/blob/output/github-contribution-grid-snake.svg)
 	
