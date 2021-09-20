@@ -1,4 +1,4 @@
-#### Oi, Eu sou Michelle Rodrigues!👋
+#### Oi, Eu sou Michelle Rodrigues! 👋 <img align="right" height="100em" src="https://media.discordapp.net/attachments/882798420903989271/889307617283952690/Webp.net-gifmaker.gif?width=406&height=406"/>
 
 #### Sobre Mim:
 
@@ -7,7 +7,7 @@
 🎯 Estudante de programação com foco em automação de testes
 <br>
 <br>
-<table>
+<table align = "center">
   <td>
     <img title="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </td>
@@ -25,9 +25,8 @@
 <br>
 
  <div>
-  <a href="https://github.com/michellecrodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michellecrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://media.discordapp.net/attachments/882798420903989271/889307617283952690/Webp.net-gifmaker.gif?width=406&height=406"/>
+  <href="https://github.com/michellecrodrigues">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=michellecrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  </div>
 	
 <br>
