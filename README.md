@@ -6,27 +6,28 @@
 <br>
 🎯 Estudante de programação com foco em automação de testes
 <br>
+<br>
 <table>
   <td>
-    <img title="JavaScript" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img title="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </td>
     <td>
-     <img title="NodeJS" width="20" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png">
+     <img title="NodeJS" width="40" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png">
     </td>
       <td>
-        <img title="C#" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+        <img title="C#" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
       <td>
-        <img title="Java" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+        <img title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
       </td>
   </table>
-  
+<br>
  <div>
   <a href="https://github.com/michellecrodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michellecrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://media.discordapp.net/attachments/882798420903989271/889307617283952690/Webp.net-gifmaker.gif?width=406&height=406"/>
  </div>
-
-  ##
+<br>
+<br>
 
   <a href="https://instagram.com/michellec_rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://discord.gg/mi_passos#0723" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
