@@ -1,6 +1,6 @@
 #### Oi, Eu sou Michelle Rodrigues!👋
 
-##### Sobre Mim:
+#### Sobre Mim:
 
 🚧 Estudando TypeScript...
 <br>
