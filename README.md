@@ -4,7 +4,6 @@
 
 🚧 Estudando cypress...
 <br>
-<br>
 🚧 Estudando javascript...
 <br>
 🎯 Estudante de programação com foco em automação de testes
